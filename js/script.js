@@ -1,3 +1,4 @@
+// Coded by Lucas and Adrian Giner
 const search = document.getElementById("searchBtn")
 const searchBtn = document.getElementById("searchInput")
 const prevBtn = document.getElementById("prevBtn")

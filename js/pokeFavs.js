@@ -1,3 +1,4 @@
+// Coded by Lucas and Adrian Giner
 const backButon = document.getElementById('backBtn');
 const contendorApp =document.getElementById("app");
 
